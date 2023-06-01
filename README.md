@@ -1,5 +1,5 @@
 # AMZN-Stock-Price-prediction-ML-using-random-Forest-Regressor
-Thisis a demo stock price predictor using random forest regressor for Stock price of Amazon stock.
+This is a demo stock price predictor using random forest regressor for Stock price of Amazon stock.
 1.AMZN10 to 12
 2.Amzn13to16
 3.Amzn17to18
